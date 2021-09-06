@@ -1,7 +1,7 @@
 ### ¯¯\_(ツ)\_/¯¯ Hi there 👋 Thanks for visiting my profile. 🍻
 <div align="center" style="margin: 40px 0">
     <a href="https://github.com/Dev-1102/github-profile-views-counter">
-        <img width="175px" src="https://komarev.com/ghpvc/?username=Dev-1102color=DE0123">
+        <img width="175px" src="https://komarev.com/ghpvc/?username=Dev-1102color=DE002D">
     </a>
 </div>
 
