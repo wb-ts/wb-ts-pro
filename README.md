@@ -1,4 +1,4 @@
-### 大家好 Hello Everyone 👋 Thanks for visiting my profile. 🍻
+### Hello Everyone 👋 Thanks for visiting my profile. 🍻
 <div align="center" style="margin: 40px 0">
     <a href="https://github.com/Dev-1102/github-profile-views-counter">
         <img width="175px" src="https://komarev.com/ghpvc/?username=SenDev001&color=DE002D">
