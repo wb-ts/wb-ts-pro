@@ -4,8 +4,6 @@
         <img width="175px" src="https://komarev.com/ghpvc/?username=SenDev001&color=DE002D">
     </a>
 </div>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=SenDev001&label=Profile%20views&color=0e75b6&style=flat" alt="SENDEV" /> </p>
-
 
 <br/>
 
