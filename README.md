@@ -4,7 +4,7 @@
         <img width="175px" src="https://komarev.com/ghpvc/?username=SenDev001&color=DE002D">
     </a>
 </div>
-
+ <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=YASHMAROO" alt="YASHMAROO" /></a> 
 <br/>
 
 ![Topdeveloper0729's GitHub stats](https://github-readme-stats.vercel.app/api?username=SenDev001&show_icons=true)
