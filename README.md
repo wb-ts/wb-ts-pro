@@ -1,13 +1,8 @@
-### Hello Everyone 👋 Thanks for visiting my profile. 👋
+<div>**🐱‍🏍 MERN stack**</div>
+<div>**🐱‍🏍 Python**</div>
+<div>**🐱‍🏍 PHP and frameworks like Laravel**</div>
+<div>**🐱‍🏍 Shopify**</div>
+<div>**🐱‍🏍 Responsive Website Design**</div>
+<div>**🐱‍🏍 Blockchain**</div>
 
-- 👋💬💬💬 I’m a full-stack developer who has rich experience in Business.
-- 👋💬💬💬 I’m currently learning Shopify and I am very interested in it.
-- 👋💬💬💬 I’m looking to collaborate on web and app development.
-- 👋💬💬💬 My main skills are <br><br>
-   &nbsp;&nbsp;&nbsp;  🐱‍🏍 MERN stack <br>
-   &nbsp;&nbsp;&nbsp;  🐱‍🏍 Python <br>
-   &nbsp;&nbsp;&nbsp;  🐱‍🏍 PHP and frameworks like Laravel <br>
-   &nbsp;&nbsp;&nbsp;  🐱‍🏍 Shopify <br>
-   &nbsp;&nbsp;&nbsp;  🐱‍🏍 Responsive Website Design <br>
-   &nbsp;&nbsp;&nbsp;  🐱‍🏍 Blockchain <br>
   
