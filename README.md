@@ -9,7 +9,7 @@
 <div>**🐱‍🏍 Trello, Jira, Bloo **</div>
 <div>**🐱‍🏍 AWS, Heroku, Plesk, Netlify **</div>
 <div>**🐱‍🏍 High Understanding of CI/CD , MVC **</div>
-
+<br />
 <img align="left" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img align="left" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"/>
