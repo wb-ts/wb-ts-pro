@@ -35,7 +35,7 @@
     <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
     <a href="#"><img alt="Jest" src="https://img.shields.io/badge/Jest-C21325.svg?logo=jest&logoColor=white"></a>
     <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design-0081CB.svg?logo=material-design&logoColor=white"></a>
-    
+    <a href="#"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-404d59.svg?logo=tailwind-css&logoColor=white"></a>
 </p>
 
 > Databases and cloud hosting.
@@ -43,6 +43,7 @@
 <p>
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
     <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
+    <a href="#"><img alt="Netlify" src="https://img.shields.io/badge/Netlify-404d59.svg?logo=netlify&logoColor=white"></a>
     <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
     <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
@@ -57,34 +58,6 @@
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
-
-<h2 align="left" id="macropower-tech">Github Metrics</h2>
-
-<br />
-
-<p align="center">
-    <img alt="metrics" title="Github Metrics" src="https://github.com/SenDev001/SenDev001/blob/main/github-metrics.svg" width="100%" />
-</p>
-
-<h2 align="left" id="macropower-tech">Github Status</h2>
-
-<br />
-
-> GitHub Profile Status
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=SenDev001&show_icons=true&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="54.25%">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SenDev001&layout=compact&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="45.25%">
-</p>
-
-<br />
-
-> GitHub Activity Graph
-
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/SenDev001/SenDev001"><img alt="SenDev001's activity graph" src="https://activity-graph.herokuapp.com/graph?username=SenDev001&bg_color=0e2239&color=58a6ff&line=114a88&point=58a6ff&hide_border=true" /></a>
-
-<br />
 
 <p align="right">
   <a href="https://github.com/SenDev001?tab=repositories&sort=stargazers">
