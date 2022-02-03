@@ -2,7 +2,7 @@
   <a href="https://github.com/SenDev001"><img src="https://readme-typing-svg.herokuapp.com/?lines=Blockchain%20Partner;Web%20Design%20and%20Development%20master;6%2B%20years%20of%20coding%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=800&height=80&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
-<h2 align="left" id="macropower-tech">Favorite Tech</h2>
+<h2 align="left" id="macropower-tech">Skills and Expertice</h2>
 
 > Programming languages.
 
@@ -14,8 +14,8 @@
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acsharp"><img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajquery"><img alt="JQuery" src="https://img.shields.io/badge/JQuery-03599C.svg?logo=jquery&logoColor=black"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajquery"><img alt="JQuery" src="https://img.shields.io/badge/JQuery-03599C.svg?logo=jquery&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asolidity"><img alt="Solidity" src="https://img.shields.io/badge/Solidity-e0982c.svg?logo=solidity5&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
@@ -26,7 +26,7 @@
 > Frameworks and libraries.
 
 <p>
-    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
+    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%white"></a>
     <a href="#"><img alt="Redux" src="https://img.shields.io/badge/Redux-1572B6.svg?logo=redux&logoColor=%white"></a>
     <a href="#"><img alt="Next" src="https://img.shields.io/badge/Next-20232e.svg?logo=next.js&logoColor=%white"></a>
     <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
