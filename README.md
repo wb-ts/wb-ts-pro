@@ -2,7 +2,7 @@
   <a href="https://github.com/SenDev001"><img src="https://readme-typing-svg.herokuapp.com/?lines=Blockchain%20Partner;Web%20Design%20and%20Development%20master;6%2B%20years%20of%20coding%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=800&height=80&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
-<h2 align="left" id="macropower-tech">Skills and Expertice</h2>
+<h2 align="left" id="macropower-tech"><font family="Pacifico">Skills and Expertice</h2>
 
 > Programming languages.
 
