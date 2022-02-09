@@ -1,6 +1,4 @@
 
-<h2 align="left" id="macropower-tech">Skills and Expertice</h2>
-
 > Programming languages.
 
 <p>
