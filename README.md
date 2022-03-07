@@ -21,6 +21,9 @@
 > Frameworks and libraries.
 
 <p>
+    <a href="#"><img alt="Blockchain" src="https://img.shields.io/badge/Blockchain-525252.svg?logo=blockchain&logoColor=%white"></a>
+    <a href="#"><img alt="Smart Contract" src="https://img.shields.io/badge/Smart-Contract-0081CB.svg?logo=smart-contract&logoColor=%white"></a>
+    <a href="#"><img alt="Ethereum" src="https://img.shields.io/badge/Ethereum-2671E5.svg?logo=ethereum&logoColor=%white"></a>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%white"></a>
     <a href="#"><img alt="Redux" src="https://img.shields.io/badge/Redux-1572B6.svg?logo=redux&logoColor=%white"></a>
     <a href="#"><img alt="Next" src="https://img.shields.io/badge/Next-20232e.svg?logo=next.js&logoColor=%white"></a>
