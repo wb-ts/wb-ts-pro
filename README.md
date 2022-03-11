@@ -14,7 +14,6 @@
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asolidity"><img alt="Solidity" src="https://img.shields.io/badge/Solidity-e0982c.svg?logo=solidity5&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Agraphql"><img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-03599C.svg?logo=graphql&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asvg"><img alt="SVG+XML" src="https://img.shields.io/badge/SVG%2BXML-e0982c.svg?logo=svg&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
 </p>
@@ -48,6 +47,7 @@
     <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
     <a href="#"><img alt="Netlify" src="https://img.shields.io/badge/Netlify-404d59.svg?logo=netlify&logoColor=white"></a>
     <a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-0078d7.svg?logo=aws&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Agraphql"><img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-03599C.svg?logo=graphql&logoColor=white"></a>
     <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
     <a href="#"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-20232e.svg?logo=firebase&logoColor=white"></a>
