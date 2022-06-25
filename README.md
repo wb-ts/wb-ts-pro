@@ -30,13 +30,14 @@
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%white"></a>
     <a href="#"><img alt="Redux" src="https://img.shields.io/badge/Redux-1572B6.svg?logo=redux&logoColor=%white"></a>
     <a href="#"><img alt="Next" src="https://img.shields.io/badge/Next-20232e.svg?logo=next.js&logoColor=%white"></a>
-    <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
+    <a href="#"><img alt="Vue" src="https://img.shields.io/badge/Vue-7952B3.svg?logo=next.js&logoColor=%white"></a>
     <a href="#"><img alt="Web3.js" src="https://img.shields.io/badge/Web3.js-43853D.svg?logo=web3.js&logoColor=white"></a>
     <a href="#"><img alt="Flikity.js" src="https://img.shields.io/badge/Flikity.js-68217A.svg?logo=flikity.js&logoColor=white"></a>
     <a href="#"><img alt="Three.js" src="https://img.shields.io/badge/Three.js-7952B3.svg?logo=three.js&logoColor=white"></a>
     <a href="#"><img alt="Chart.js" src="https://img.shields.io/badge/Chart.js-525252.svg?logo=chart.js&logoColor=white"></a>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
     <a href="#"><img alt="Electron" src="https://img.shields.io/badge/Electron-20232e.svg?logo=electron&logoColor=white"></a>
+    <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
     <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
     <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
     <a href="#"><img alt="Jest" src="https://img.shields.io/badge/Jest-C21325.svg?logo=jest&logoColor=white"></a>
