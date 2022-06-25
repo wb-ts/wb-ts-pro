@@ -30,7 +30,7 @@
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%white"></a>
     <a href="#"><img alt="Redux" src="https://img.shields.io/badge/Redux-1572B6.svg?logo=redux&logoColor=%white"></a>
     <a href="#"><img alt="Next" src="https://img.shields.io/badge/Next-20232e.svg?logo=next.js&logoColor=%white"></a>
-    <a href="#"><img alt="Remix" src="https://img.shields.io/badge/Remix-0081CB.svg?logo=remix.js&logoColor=%white"></a>
+    <a href="#"><img alt="Remix" src="https://img.shields.io/badge/Remix-0081CB.svg?logo=remix&logoColor=%white"></a>
     <a href="#"><img alt="Web3.js" src="https://img.shields.io/badge/Web3.js-43853D.svg?logo=web3.js&logoColor=white"></a>
     <a href="#"><img alt="Flikity.js" src="https://img.shields.io/badge/Flikity.js-68217A.svg?logo=flikity.js&logoColor=white"></a>
     <a href="#"><img alt="Three.js" src="https://img.shields.io/badge/Three.js-7952B3.svg?logo=three.js&logoColor=white"></a>
