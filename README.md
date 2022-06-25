@@ -32,7 +32,7 @@
     <a href="#"><img alt="Next" src="https://img.shields.io/badge/Next-20232e.svg?logo=next.js&logoColor=%white"></a>
     <a href="#"><img alt="Remix" src="https://img.shields.io/badge/Remix-0081CB.svg?logo=remix&logoColor=%white"></a>
     <a href="#"><img alt="Web3.js" src="https://img.shields.io/badge/Web3.js-43853D.svg?logo=web3.js&logoColor=white"></a>
-    <a href="#"><img alt="Babylon.js" src="https://img.shields.io/badge/Babylon.js-68217A.svg?logo=babylon.js&logoColor=white"></a>
+    <a href="#"><img alt="Babylon.js" src="https://img.shields.io/badge/Babylon.js-68217A.svg?logo=unity&logoColor=white"></a>
     <a href="#"><img alt="Three.js" src="https://img.shields.io/badge/Three.js-7952B3.svg?logo=three.js&logoColor=white"></a>
     <a href="#"><img alt="Chart.js" src="https://img.shields.io/badge/Chart.js-525252.svg?logo=chart.js&logoColor=white"></a>
     <a href="#"><img alt="Vue" src="https://img.shields.io/badge/Vue-20232a.svg?logo=vue.js&logoColor=%white"></a>
@@ -57,7 +57,7 @@
     <a href="#"><img alt="Netlify" src="https://img.shields.io/badge/Netlify-404d59.svg?logo=netlify&logoColor=white"></a>
     <a href="#"><img alt="CloudFlare" src="https://img.shields.io/badge/CloudFlare-404d59.svg?logo=cloudflare&logoColor=white"></a>
     <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
-    <a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-0078d7.svg?logo=aws&logoColor=white"></a>
+    <a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-0078d7.svg?logo=amazon&logoColor=white"></a>
     <a href="#"><img alt="Prisma" src="https://img.shields.io/badge/Prisma-316192.svg?logo=prisma&logoColor=white"></a>
     <a href="#"><img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-03599C.svg?logo=graphql&logoColor=white"></a>
     <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
