@@ -32,7 +32,6 @@
     <a href="#"><img alt="Next" src="https://img.shields.io/badge/Next-20232e.svg?logo=next.js&logoColor=%white"></a>
     <a href="#"><img alt="Remix" src="https://img.shields.io/badge/Remix-0081CB.svg?logo=remix&logoColor=%white"></a>
     <a href="#"><img alt="Web3.js" src="https://img.shields.io/badge/Web3.js-43853D.svg?logo=web3.js&logoColor=white"></a>
-    <a href="#"><img alt="Moralis" src="https://img.shields.io/badge/Moralis-hotpink.svg?logo=moralis&logoColor=white"></a>
     <a href="#"><img alt="Babylon.js" src="https://img.shields.io/badge/Babylon.js-68217A.svg?logo=babylon.js&logoColor=white"></a>
     <a href="#"><img alt="Three.js" src="https://img.shields.io/badge/Three.js-7952B3.svg?logo=three.js&logoColor=white"></a>
     <a href="#"><img alt="Chart.js" src="https://img.shields.io/badge/Chart.js-525252.svg?logo=chart.js&logoColor=white"></a>
