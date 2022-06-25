@@ -27,7 +27,7 @@
 
 <p>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%white"></a>
-    <a href="#"><img alt="React Native" src="https://img.shields.io/badge/React%20Native-20232a.svg?logo=react-native&logoColor=%white"></a>
+    <a href="#"><img alt="React Native" src="https://img.shields.io/badge/React%20Native-20232a.svg?logo=react&logoColor=%white"></a>
     <a href="#"><img alt="Redux" src="https://img.shields.io/badge/Redux-1572B6.svg?logo=redux&logoColor=%white"></a>
     <a href="#"><img alt="Next" src="https://img.shields.io/badge/Next-20232e.svg?logo=next.js&logoColor=%white"></a>
     <a href="#"><img alt="Remix" src="https://img.shields.io/badge/Remix-0081CB.svg?logo=remix&logoColor=%white"></a>
