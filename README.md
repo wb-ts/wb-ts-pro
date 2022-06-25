@@ -32,6 +32,7 @@
     <a href="#"><img alt="Next" src="https://img.shields.io/badge/Next-20232e.svg?logo=next.js&logoColor=%white"></a>
     <a href="#"><img alt="Remix" src="https://img.shields.io/badge/Remix-0081CB.svg?logo=remix&logoColor=%white"></a>
     <a href="#"><img alt="Web3.js" src="https://img.shields.io/badge/Web3.js-43853D.svg?logo=web3.js&logoColor=white"></a>
+    <a href="#"><img alt="Moralis" src="https://img.shields.io/badge/Moralis-hotpink.svg?logo=moralis&logoColor=white"></a>
     <a href="#"><img alt="Babylon.js" src="https://img.shields.io/badge/Babylon.js-68217A.svg?logo=babylon.js&logoColor=white"></a>
     <a href="#"><img alt="Three.js" src="https://img.shields.io/badge/Three.js-7952B3.svg?logo=three.js&logoColor=white"></a>
     <a href="#"><img alt="Chart.js" src="https://img.shields.io/badge/Chart.js-525252.svg?logo=chart.js&logoColor=white"></a>
@@ -68,19 +69,21 @@
     <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
 </p>
 
-> Software and tools.
+> Software and tools , Networks.
 
 <p>
+    <a href="#"><img alt="Blockchain" src="https://img.shields.io/badge/Blockchain-007ACC.svg?logo=blockchain&logoColor=white"></a>
+    <a href="#"><img alt="Bitcoin" src="https://img.shields.io/badge/Bitcoin-F7DF1E.svg?logo=bitcoin&logoColor=white"></a>
+    <a href="#"><img alt="Ethereum" src="https://img.shields.io/badge/Ethereum-404d59.svg?logo=Ethereum&logoColor=white"></a>
+    <a href="#"><img alt="Binance" src="https://img.shields.io/badge/Binance-F7DF1E.svg?logo=Binance&logoColor=white"></a>
+    <a href="#"><img alt="Binance Smart Chain" src="https://img.shields.io/badge/Binance%20Smart%20Chain-F7DF1E.svg?logo=binance-smart-chain&logoColor=white"></a>
+    <a href="#"><img alt="Tron" src="https://img.shields.io/badge/Tron-3DDC84.svg?logo=tron&logoColor=white"></a>
+    <a href="#"><img alt="Near" src="https://img.shields.io/badge/Near-404d59.svg?logo=near&logoColor=white"></a>
     <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
     <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
     <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
-    <a href="#"><img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1.svg?logo=arch-linux&logoColor=white"></a>
-    <a href="#"><img alt="Audacity" src="https://img.shields.io/badge/-Audacity-0000CC?logo=audacity&logoColor=white"></a>
-    <a href="#"><img alt="Bitwarden" src="https://img.shields.io/badge/-Bitwarden-175DDC?logo=bitwarden&logoColor=white"></a>
-    <a href="#"><img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white"></a>
     <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
     <a href="#"><img alt="Construct 3" src="https://img.shields.io/badge/Construct%203-00b56a.svg?logo=construct-3&logoColor=white"></a>
-    <a href="#"><img alt="Dark Reader" src="https://img.shields.io/badge/-Dark%20Reader-141E24?logo=dark-reader&logoColor=white"></a>
     <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-1572B6.svg?logo=figma&logoColor=white"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
     <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-4ea94b.svg?logo=docker&logoColor=white"></a>
@@ -90,6 +93,8 @@
     <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
+    <a href="#"><img alt="GameMaker" src="https://img.shields.io/badge/-GameMaker?logo=gamemaker-008678&logoColor=white"></a>
+    <a href="#"><img alt="Unreal Engine 5" src="https://img.shields.io/badge/-Unreal%20Engine%205-00b56a?logo=unreal-engine-5&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
 
