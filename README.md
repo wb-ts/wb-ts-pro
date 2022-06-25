@@ -72,13 +72,12 @@
 > Software and tools , Networks.
 
 <p>
-    <a href="#"><img alt="Blockchain" src="https://img.shields.io/badge/Blockchain-007ACC.svg?logo=blockchain&logoColor=white"></a>
     <a href="#"><img alt="Bitcoin" src="https://img.shields.io/badge/Bitcoin-F7DF1E.svg?logo=bitcoin&logoColor=white"></a>
     <a href="#"><img alt="Ethereum" src="https://img.shields.io/badge/Ethereum-404d59.svg?logo=Ethereum&logoColor=white"></a>
     <a href="#"><img alt="Binance" src="https://img.shields.io/badge/Binance-F7DF1E.svg?logo=Binance&logoColor=white"></a>
-    <a href="#"><img alt="Binance Smart Chain" src="https://img.shields.io/badge/Binance%20Smart%20Chain-F7DF1E.svg?logo=binance-smart-chain&logoColor=white"></a>
-    <a href="#"><img alt="Tron" src="https://img.shields.io/badge/Tron-3DDC84.svg?logo=tron&logoColor=white"></a>
-    <a href="#"><img alt="Near" src="https://img.shields.io/badge/Near-404d59.svg?logo=near&logoColor=white"></a>
+    <a href="#"><img alt="Binance Smart Chain" src="https://img.shields.io/badge/Binance%20Smart%20Chain-F7DF1E.svg?logo=bsc&logoColor=white"></a>
+    <a href="#"><img alt="Tron" src="https://img.shields.io/badge/Tron-3DDC84.svg?logo=trx&logoColor=white"></a>
+    <a href="#"><img alt="Near" src="https://img.shields.io/badge/Near-404d59.svg?logo=near-protocol&logoColor=white"></a>
     <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
     <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
     <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
