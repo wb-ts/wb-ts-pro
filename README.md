@@ -18,7 +18,7 @@
     <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=white"></a>
     <a href="#"><img alt="JQuery" src="https://img.shields.io/badge/JQuery-03599C.svg?logo=jquery&logoColor=white"></a>
     <a href="#"><img alt="Solidity" src="https://img.shields.io/badge/Solidity-E34F26.svg?logo=solidity&logoColor=white"></a>
-    <a href="#"><img alt="Solidity" src="https://img.shields.io/badge/Rust-03599C.svg?logo=rust&logoColor=white"></a>
+    <a href="#"><img alt="Rust" src="https://img.shields.io/badge/Rust-03599C.svg?logo=rust&logoColor=white"></a>
     <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
     <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
     <a href="#"><img alt="SVG+XML" src="https://img.shields.io/badge/SVG%2BXML-e0982c.svg?logo=svg&logoColor=white"></a>
@@ -30,11 +30,12 @@
 
 <p>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%white"></a>
+    <a href="#"><img alt="React Native" src="https://img.shields.io/badge/React%20Native-20232a.svg?logo=react%20native&logoColor=%white"></a>
     <a href="#"><img alt="Redux" src="https://img.shields.io/badge/Redux-1572B6.svg?logo=redux&logoColor=%white"></a>
     <a href="#"><img alt="Next" src="https://img.shields.io/badge/Next-20232e.svg?logo=next.js&logoColor=%white"></a>
     <a href="#"><img alt="Remix" src="https://img.shields.io/badge/Remix-0081CB.svg?logo=remix&logoColor=%white"></a>
     <a href="#"><img alt="Web3.js" src="https://img.shields.io/badge/Web3.js-43853D.svg?logo=web3.js&logoColor=white"></a>
-    <a href="#"><img alt="Babylone.js" src="https://img.shields.io/badge/Babylone.js-68217A.svg?logo=babylone.js&logoColor=white"></a>
+    <a href="#"><img alt="Babylon.js" src="https://img.shields.io/badge/Babylon.js-68217A.svg?logo=babylon.js&logoColor=white"></a>
     <a href="#"><img alt="Three.js" src="https://img.shields.io/badge/Three.js-7952B3.svg?logo=three.js&logoColor=white"></a>
     <a href="#"><img alt="Chart.js" src="https://img.shields.io/badge/Chart.js-525252.svg?logo=chart.js&logoColor=white"></a>
     <a href="#"><img alt="Vue" src="https://img.shields.io/badge/Vue-20232a.svg?logo=vue.js&logoColor=%white"></a>
