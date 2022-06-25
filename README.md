@@ -8,11 +8,8 @@
 > Programming languages.
 
 <p>
-    <a href="#"><img alt="MIPS Assembly" src="https://custom-icon-badges.herokuapp.com/badge/Assembly-525252.svg?logo=asm-hex&logoColor=white"></a>
-    <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
     <a href="#"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
     <a href="#"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
-    <a href="#"><img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
     <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
     <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
     <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=white"></a>
@@ -101,7 +98,7 @@
 <p>
     <a href="https://join.skype.com/invite/x9uVjXmB5LRY"><img alt="Skype" src="https://img.shields.io/badge/Skype-1572B6.svg?logo=skype&logoColor=white">
     <a href="https://join.slack.com/t/etspach/shared_invite/zt-1akxwey4y-FGWeiaKN6MQn~43RU8_dFg"><img alt="Slack" src="https://img.shields.io/badge/Slack-4ea94b.svg?logo=slack&logoColor=white">
-    <a href="mailto:golden.peach.ts@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-E34F26.svg?logo=email&logoColor=white">
+    <a href="mailto:golden.peach.ts@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-E34F26.svg?logo=gmail&logoColor=white">
     <a href="https://t.me/golden_t_s"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-0078d7.svg?logo=telegram&logoColor=white"></a>
 
 </p>
