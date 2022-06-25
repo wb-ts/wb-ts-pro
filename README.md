@@ -30,7 +30,7 @@
 
 <p>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%white"></a>
-    <a href="#"><img alt="React Native" src="https://img.shields.io/badge/React%20Native-20232a.svg?logo=react%20native&logoColor=%white"></a>
+    <a href="#"><img alt="React Native" src="https://img.shields.io/badge/ReactNative-20232a.svg?logo=reactnative&logoColor=%white"></a>
     <a href="#"><img alt="Redux" src="https://img.shields.io/badge/Redux-1572B6.svg?logo=redux&logoColor=%white"></a>
     <a href="#"><img alt="Next" src="https://img.shields.io/badge/Next-20232e.svg?logo=next.js&logoColor=%white"></a>
     <a href="#"><img alt="Remix" src="https://img.shields.io/badge/Remix-0081CB.svg?logo=remix&logoColor=%white"></a>
@@ -96,3 +96,12 @@
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
 
+> Contact Me.
+
+<p>
+    <a href="https://join.skype.com/invite/x9uVjXmB5LRY"><img alt="Skype" src="https://img.shields.io/badge/Skype-1572B6.svg?logo=skype&logoColor=white">
+    <a href="https://join.slack.com/t/etspach/shared_invite/zt-1akxwey4y-FGWeiaKN6MQn~43RU8_dFg"><img alt="Slack" src="https://img.shields.io/badge/Slack-4ea94b.svg?logo=slack&logoColor=white">
+    <a href="mailto:golden.peach.ts@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-E34F26.svg?logo=email&logoColor=white">
+    <a href="https://t.me/golden_t_s"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-0078d7.svg?logo=telegram&logoColor=white"></a>
+
+</p>
