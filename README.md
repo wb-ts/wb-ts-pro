@@ -85,8 +85,7 @@
     <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-    <a href="#"><img alt="GameMaker" src="https://img.shields.io/badge/-GameMaker?logo=gamemaker-008678&logoColor=white"></a>
-    <a href="#"><img alt="Unreal Engine 5" src="https://img.shields.io/badge/-Unreal%20Engine%205-00b56a?logo=unreal-engine-5&logoColor=white"></a>
+    <a href="#"><img alt="Unreal Engine 5" src="https://img.shields.io/badge/-Unreal%20Engine%205-00b56a?logo=unreal-engine&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
 
