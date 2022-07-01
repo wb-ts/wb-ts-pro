@@ -5,6 +5,20 @@
 
 🥇 A Professional full-stack Web and Blockchain developer for over than 6 years and till now `wb-ts` has worked on so many projects. Always provides very creative ideas and has high passion, high ability, clean coding ability. His strongest asset is his work ethic and his willingness to step in when needed. He is not afraid to take on a difficult client or do a project that nobody else wants because those are the clients and projects that teach him the most. He typically loves to work outside of his job description and do whatever is asked of him. He is not above any single task, and He takes great pride in his  ability to step in and adapt to any situation to get the best results for the company or clients.
 
+
+<div align="center" style="margin: 40px 0">
+    <a href="https://github.com/topdev0729/github-profile-views-counter">
+        <img width="175px" src="https://komarev.com/ghpvc/?username=wb-ts&color=DE002D">
+    </a>
+</div>
+<div align="center" style="margin: 40px 0">
+    <!-- Followers -->
+    <a href="https://github.com/wb-ts?tab=followers">
+        <img width="120px" height="25px" style="border-radius: 3px" src="https://img.shields.io/github/followers/wb-ts?style=flat-square">
+    </a>
+</div>
+<br />
+
 > Programming languages.
 
 <p>
