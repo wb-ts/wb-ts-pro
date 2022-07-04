@@ -3,6 +3,11 @@
 
 ### Overview 
 
+<div align="center">
+<img src="https://i.ibb.co/f8WGddx/hjh7wwiurey81.webp" alt="hjh7wwiurey81" border="0">
+</div>
+<br>
+
 🥇 A Professional full-stack Web and Blockchain developer for over than 6 years and till now `wb-ts` has worked on so many projects. Always provides very creative ideas and has high passion, high ability, clean coding ability. His strongest asset is his work ethic and his willingness to step in when needed. He is not afraid to take on a difficult client or do a project that nobody else wants because those are the clients and projects that teach him the most. He typically loves to work outside of his job description and do whatever is asked of him. He is not above any single task, and He takes great pride in his  ability to step in and adapt to any situation to get the best results for the company or clients.
 
 
