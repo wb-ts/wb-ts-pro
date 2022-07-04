@@ -4,7 +4,7 @@
 ### Overview 
 
 <div align="center">
-<img src="https://i.ibb.co/f8WGddx/hjh7wwiurey81.webp" alt="hjh7wwiurey81" border="0">
+<img src="https://i.ibb.co/f8WGddx/hjh7wwiurey81.webp" alt="hjh7wwiurey81" border="0" style="width:100%">
 </div>
 <br>
 
