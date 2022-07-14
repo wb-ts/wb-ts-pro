@@ -98,6 +98,6 @@
     <a href="https://join.skype.com/invite/x9uVjXmB5LRY"><img alt="Skype" src="https://img.shields.io/badge/Skype-1572B6.svg?logo=skype&logoColor=white">
     <a href="https://join.slack.com/t/etspach/shared_invite/zt-1akxwey4y-FGWeiaKN6MQn~43RU8_dFg"><img alt="Slack" src="https://img.shields.io/badge/Slack-4ea94b.svg?logo=slack&logoColor=white">
     <a href="mailto:golden.peach.ts@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-E34F26.svg?logo=gmail&logoColor=white">
-    <a href="https://t.me/golden_t_s"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-0078d7.svg?logo=telegram&logoColor=white"></a>
+    <a href="https://t.me/wb_ts"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-0078d7.svg?logo=telegram&logoColor=white"></a>
 
 </p>
