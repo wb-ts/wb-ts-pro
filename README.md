@@ -102,3 +102,8 @@
     <a href="https://t.me/wb_ts"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-0078d7.svg?logo=telegram&logoColor=white"></a>
 
 </p>
+
+
+<div align="center">
+  <img alt="status" src="https://github-readme-stats.vercel.app/api?username=wb-ts&show_icons=true&&custom_title=Current%20Status&title_color=baf14f&text_color=76d285&icon_color=cff389&theme=dark"/>
+</div>
