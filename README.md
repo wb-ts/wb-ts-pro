@@ -104,6 +104,7 @@
 </p>
 
 
-<div align="center">
-  <img alt="status" src="https://github-readme-stats.vercel.app/api?username=wb-ts&show_icons=true&&custom_title=Current%20Status&title_color=baf14f&text_color=76d285&icon_color=cff389&theme=dark"/>
+<div align="right">
+  <img src="https://github-readme-stats.vercel.app/api?username=wb-ts&show_icons=true&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wb-ts&theme=github-dark-blue&hide_border=true" />
 </div>
